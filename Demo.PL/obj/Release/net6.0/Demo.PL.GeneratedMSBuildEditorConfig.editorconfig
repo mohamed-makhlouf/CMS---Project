@@ -1,0 +1,60 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Demo.PL
+build_property.RootNamespace = Demo.PL
+build_property.ProjectDir = D:\Rounds\Route\C38\ASP.Net Core 6\Session6_ Core\Demo\Demo.PL\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Rounds\Route\C38\ASP.Net Core 6\Session6_ Core\Demo\Demo.PL
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Rounds/Route/C38/ASP.Net Core 6/Session6_ Core/Demo/Demo.PL/Views/Department/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Rounds/Route/C38/ASP.Net Core 6/Session6_ Core/Demo/Demo.PL/Views/Department/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Rounds/Route/C38/ASP.Net Core 6/Session6_ Core/Demo/Demo.PL/Views/Department/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Rounds/Route/C38/ASP.Net Core 6/Session6_ Core/Demo/Demo.PL/Views/Department/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Rounds/Route/C38/ASP.Net Core 6/Session6_ Core/Demo/Demo.PL/Views/Department/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Rounds/Route/C38/ASP.Net Core 6/Session6_ Core/Demo/Demo.PL/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Rounds/Route/C38/ASP.Net Core 6/Session6_ Core/Demo/Demo.PL/Views/Layout/MainLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XE1haW5MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Rounds/Route/C38/ASP.Net Core 6/Session6_ Core/Demo/Demo.PL/Views/Partials/Department/CreateEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcRGVwYXJ0bWVudFxDcmVhdGVFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Rounds/Route/C38/ASP.Net Core 6/Session6_ Core/Demo/Demo.PL/Views/Partials/Department/DetailsDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcRGVwYXJ0bWVudFxEZXRhaWxzRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Rounds/Route/C38/ASP.Net Core 6/Session6_ Core/Demo/Demo.PL/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Rounds/Route/C38/ASP.Net Core 6/Session6_ Core/Demo/Demo.PL/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

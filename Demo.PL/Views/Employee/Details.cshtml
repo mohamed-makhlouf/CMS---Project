@@ -1,0 +1,22 @@
+﻿@model EmployeeVM
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+    @section JqueryUI{
+     <link href="~/plugins/bootstrap-select/css/bootstrap-select.css" rel="stylesheet">
+     }
+
+<div class="block-header">
+  <h2>@Model.Name Details</h2>
+</div>
+
+
+   @{await Html.RenderPartialAsync("~/Views/Partials/Employee/DeleteOrDetails.cshtml");}
+
+    <centr>
+        <a asp-action="Index" asp-controller="Employee" class="btn btn-warning">Return</a>
+        <a asp-action="Delete" asp-controller="Employee" asp-route-id="@Model.Id" class="btn btn-warning">Delete</a>
+        <a asp-action="Update" asp-controller="Employee" asp-route-id="@Model.Id" class="btn btn-warning">Update</a>
+    </centr>

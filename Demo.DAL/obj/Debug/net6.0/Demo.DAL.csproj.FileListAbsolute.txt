@@ -1,0 +1,125 @@
+C:\Users\Ahmed El Gendy\source\repos\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+C:\Users\Ahmed El Gendy\source\repos\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+C:\Users\Ahmed El Gendy\source\repos\Demo\Demo.DAL\bin\Debug\net6.0\ref\Demo.DAL.dll
+C:\Users\Ahmed El Gendy\source\repos\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+C:\Users\Ahmed El Gendy\source\repos\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+C:\Users\Ahmed El Gendy\source\repos\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed El Gendy\source\repos\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+C:\Users\Ahmed El Gendy\source\repos\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+C:\Users\Ahmed El Gendy\source\repos\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed El Gendy\source\repos\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+C:\Users\Ahmed El Gendy\source\repos\Demo\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
+C:\Users\Ahmed El Gendy\source\repos\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+C:\Users\Ahmed El Gendy\source\repos\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.runtimeconfig.json
+C:\Users\Ahmed El Gendy\source\repos\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.genruntimeconfig.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session6_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+D:\Rounds\Route\C38\ASP.Net Core 6\Session6_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.runtimeconfig.json
+D:\Rounds\Route\C38\ASP.Net Core 6\Session6_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session6_ Core\Demo\Demo.DAL\bin\Debug\net6.0\ref\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session6_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+D:\Rounds\Route\C38\ASP.Net Core 6\Session6_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Route\C38\ASP.Net Core 6\Session6_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session6_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+D:\Rounds\Route\C38\ASP.Net Core 6\Session6_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session6_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session6_ Core\Demo\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session6_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+D:\Rounds\Route\C38\ASP.Net Core 6\Session6_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.genruntimeconfig.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session6_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session7_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+D:\Rounds\Route\C38\ASP.Net Core 6\Session7_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.runtimeconfig.json
+D:\Rounds\Route\C38\ASP.Net Core 6\Session7_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session7_ Core\Demo\Demo.DAL\bin\Debug\net6.0\ref\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session7_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+D:\Rounds\Route\C38\ASP.Net Core 6\Session7_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session7_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Route\C38\ASP.Net Core 6\Session7_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session7_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+D:\Rounds\Route\C38\ASP.Net Core 6\Session7_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session7_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session7_ Core\Demo\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session7_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+D:\Rounds\Route\C38\ASP.Net Core 6\Session7_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.genruntimeconfig.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session8_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+D:\Rounds\Route\C38\ASP.Net Core 6\Session8_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.runtimeconfig.json
+D:\Rounds\Route\C38\ASP.Net Core 6\Session8_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session8_ Core\Demo\Demo.DAL\bin\Debug\net6.0\ref\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session8_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+D:\Rounds\Route\C38\ASP.Net Core 6\Session8_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session8_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Route\C38\ASP.Net Core 6\Session8_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session8_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+D:\Rounds\Route\C38\ASP.Net Core 6\Session8_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session8_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session8_ Core\Demo\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session8_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+D:\Rounds\Route\C38\ASP.Net Core 6\Session8_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.genruntimeconfig.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session9_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+D:\Rounds\Route\C38\ASP.Net Core 6\Session9_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.runtimeconfig.json
+D:\Rounds\Route\C38\ASP.Net Core 6\Session9_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session9_ Core\Demo\Demo.DAL\bin\Debug\net6.0\ref\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session9_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+D:\Rounds\Route\C38\ASP.Net Core 6\Session9_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session9_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Route\C38\ASP.Net Core 6\Session9_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session9_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+D:\Rounds\Route\C38\ASP.Net Core 6\Session9_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session9_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session9_ Core\Demo\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session9_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+D:\Rounds\Route\C38\ASP.Net Core 6\Session9_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.genruntimeconfig.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session10_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+D:\Rounds\Route\C38\ASP.Net Core 6\Session10_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.runtimeconfig.json
+D:\Rounds\Route\C38\ASP.Net Core 6\Session10_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session10_ Core\Demo\Demo.DAL\bin\Debug\net6.0\ref\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session10_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+D:\Rounds\Route\C38\ASP.Net Core 6\Session10_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session10_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Route\C38\ASP.Net Core 6\Session10_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session10_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+D:\Rounds\Route\C38\ASP.Net Core 6\Session10_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session10_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session10_ Core\Demo\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session10_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+D:\Rounds\Route\C38\ASP.Net Core 6\Session10_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.genruntimeconfig.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session11_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+D:\Rounds\Route\C38\ASP.Net Core 6\Session11_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.runtimeconfig.json
+D:\Rounds\Route\C38\ASP.Net Core 6\Session11_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session11_ Core\Demo\Demo.DAL\bin\Debug\net6.0\ref\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session11_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+D:\Rounds\Route\C38\ASP.Net Core 6\Session11_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session11_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Route\C38\ASP.Net Core 6\Session11_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session11_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+D:\Rounds\Route\C38\ASP.Net Core 6\Session11_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session11_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session11_ Core\Demo\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session11_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+D:\Rounds\Route\C38\ASP.Net Core 6\Session11_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.genruntimeconfig.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session12_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+D:\Rounds\Route\C38\ASP.Net Core 6\Session12_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.runtimeconfig.json
+D:\Rounds\Route\C38\ASP.Net Core 6\Session12_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session12_ Core\Demo\Demo.DAL\bin\Debug\net6.0\ref\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session12_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+D:\Rounds\Route\C38\ASP.Net Core 6\Session12_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Route\C38\ASP.Net Core 6\Session12_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session12_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+D:\Rounds\Route\C38\ASP.Net Core 6\Session12_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session12_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session12_ Core\Demo\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session12_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+D:\Rounds\Route\C38\ASP.Net Core 6\Session12_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.genruntimeconfig.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session13_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+D:\Rounds\Route\C38\ASP.Net Core 6\Session13_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.runtimeconfig.json
+D:\Rounds\Route\C38\ASP.Net Core 6\Session13_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session13_ Core\Demo\Demo.DAL\bin\Debug\net6.0\ref\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session13_ Core\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+D:\Rounds\Route\C38\ASP.Net Core 6\Session13_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Route\C38\ASP.Net Core 6\Session13_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session13_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+D:\Rounds\Route\C38\ASP.Net Core 6\Session13_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session13_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session13_ Core\Demo\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
+D:\Rounds\Route\C38\ASP.Net Core 6\Session13_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+D:\Rounds\Route\C38\ASP.Net Core 6\Session13_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.genruntimeconfig.cache
+D:\Rounds\Route\C38\ASP.Net Core 6\Session13_ Core\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache

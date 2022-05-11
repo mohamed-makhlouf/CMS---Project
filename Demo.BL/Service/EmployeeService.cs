@@ -1,0 +1,14 @@
+﻿using Demo.BL.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Demo.BL.Service
+{
+    public static class EmployeeService
+    {
+
+    }
+}

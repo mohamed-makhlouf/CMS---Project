@@ -1,0 +1,20 @@
+﻿@model DepartmentVM
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="block-header">
+  <h2>@Model.Name Details</h2>
+</div>
+
+<form asp-controller="Department" asp-action="Delete" class="form-group">
+
+   @{await Html.RenderPartialAsync("~/Views/Partials/Department/DetailsDelete.cshtml");}
+
+    <centr>
+        <input type="submit" value="Delete" class="btn btn-primary" />
+        <a asp-action="Index" asp-controller="Department" class="btn btn-warning">Return</a>
+        <a asp-action="Update" asp-controller="Department" asp-route-id="@Model.Id" class="btn btn-warning">Update</a>
+    </centr>
+</form>

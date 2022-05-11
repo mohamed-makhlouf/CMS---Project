@@ -1,0 +1,87 @@
+﻿    @model EmployeeVM
+    @inject Demo.BL.Interface.ICountryRep country
+
+
+    <label asp-for="Name">Name</label>
+    <input type="text" asp-for="Name" class="form-control" placeholder="Employee Name" />
+    <span asp-validation-for="Name" class="text-danger"></span>
+    <br />
+
+    <label asp-for="Salary">Salary</label>
+    <input type="text" asp-for="Salary" class="form-control" placeholder="Employee Salary" />
+    <span asp-validation-for="Salary" class="text-danger"></span>
+    <br />
+
+
+    <label asp-for="HireDate">HireDate</label>
+    <input type="text" asp-for="HireDate" placeholder="Hire Date" class="form-control" autocomplete="off">
+    <span asp-validation-for="HireDate" class="text-danger"></span>
+    <br />
+
+
+    <label asp-for="Email">Email</label>
+    <input type="text" asp-for="Email" class="form-control" placeholder="Employee Email" />
+    <span asp-validation-for="Email" class="text-danger"></span>
+    <br />
+
+
+    <label asp-for="EmpAddress">EmpAddress</label>
+    <input type="text" asp-for="EmpAddress" class="form-control" placeholder="Employee Address" />
+    <span asp-validation-for="EmpAddress" class="text-danger"></span>
+    <br />
+
+
+    <label asp-for="Notes">Notes</label>
+    <textarea rows="4"  asp-for="Notes" class="form-control" placeholder="Employee Notes"></textarea>
+    <span asp-validation-for="Notes" class="text-danger"></span>
+    <br />
+
+    <div class="demo-checkbox">
+        <input type="checkbox" asp-for="IsActive" checked="checked">
+        <label asp-for="IsActive">IsActive</label>
+        <span asp-validation-for="IsActive" class="text-danger"></span>
+    </div>
+    <br />
+
+
+    <select asp-for="DepartmentId" asp-items="(SelectList)ViewBag.DepartmentList">
+        <option>Choose Department</option>
+    </select>
+    <br /> <br />
+
+
+    <label>Country</label>
+    <select id="CountryList">
+        <option>Choose Country</option>    
+        @foreach (var item in await country.GetAsync())
+        {
+            <option value="@item.Id">@item.Name</option>
+        }
+    </select>
+    <br /> <br />
+
+
+    <label>City</label>
+    <select id="CityList">
+     <option>Choose City</option>    
+    </select>
+
+
+    <br /> <br />
+    <label asp-for="DistrictId">District</label>
+    <select asp-for="DistrictId">
+     <option>Choose District</option>    
+    </select>
+
+
+    <br /><br />
+    <label asp-for="Cv">Cv</label>
+    <input type="file" asp-for="Cv" class="form-control"/>
+    <br />
+
+
+    <br /><br />
+    <label asp-for="Image">Image</label>
+    <input type="file" asp-for="Image" class="form-control"/>
+    <br />
+

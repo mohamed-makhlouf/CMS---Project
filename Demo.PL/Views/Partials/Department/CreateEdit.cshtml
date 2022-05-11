@@ -1,0 +1,11 @@
+﻿@model DepartmentVM
+
+    <label asp-for="Name">@SharedLocalizer["DN"]</label>
+    <input type="text" asp-for="Name" class="form-control" />
+    <span asp-validation-for="Name" class="text-danger"></span>
+    <br />
+
+    <label asp-for="Code">@SharedLocalizer["DptC"]</label>
+    <input type="text" asp-for="Code" class="form-control" />
+    <span asp-validation-for="Code" class="text-danger"></span>
+    <br />

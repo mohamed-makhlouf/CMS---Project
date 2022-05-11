@@ -1,0 +1,34 @@
+﻿@inject Demo.BL.Interface.IEmployeeRep employee
+@inject Demo.BL.Interface.IDepartment department
+
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Test</title>
+</head>
+<body>
+
+    <ul>
+        @foreach (var item in await employee.GetAsync())
+        {
+            <li>@item.Name</li>
+        }
+    </ul>
+
+    <ul>
+        @foreach (var item in await department.GetAsync())
+        {
+            <li>@item.Name</li>
+        }
+    </ul>
+
+
+</body>
+</html>
